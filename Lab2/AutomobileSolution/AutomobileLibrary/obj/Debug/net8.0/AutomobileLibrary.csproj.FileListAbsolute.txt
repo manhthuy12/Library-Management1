@@ -1,0 +1,13 @@
+D:\SE\S5. PRN211\Clone\Lab2\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.deps.json
+D:\SE\S5. PRN211\Clone\Lab2\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.dll
+D:\SE\S5. PRN211\Clone\Lab2\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.pdb
+D:\SE\S5. PRN211\Clone\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\SE\S5. PRN211\Clone\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE\S5. PRN211\Clone\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\SE\S5. PRN211\Clone\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfo.cs
+D:\SE\S5. PRN211\Clone\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\SE\S5. PRN211\Clone\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.sourcelink.json
+D:\SE\S5. PRN211\Clone\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.dll
+D:\SE\S5. PRN211\Clone\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\refint\AutomobileLibrary.dll
+D:\SE\S5. PRN211\Clone\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.pdb
+D:\SE\S5. PRN211\Clone\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\ref\AutomobileLibrary.dll

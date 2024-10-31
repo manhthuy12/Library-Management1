@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{A4ACAECB-97D0-4E7A-9FED-9F1781C07D34}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Presentation Layer", "1. Presentation Layer", "{D142D967-6EDB-4F52-B127-37566993C3F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business Layer", "Business Layer", "{2EB18B7F-18FE-43B6-A2E6-CDE98A10ADC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Layer", "Data Layer", "{86F6820A-AB44-4EDC-8320-5379539D27DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eStore", "eStore\eStore.csproj", "{CEEA7604-EA00-422C-946D-8F1099D7D73C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessObject", "BusinessObject\BusinessObject.csproj", "{43691110-1883-475A-A1A2-FB81C3893E27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Migrations", "Migrations", "{5E979094-F60F-45B3-B34A-32C82C7C3A12}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\DELL\Downloads\PRN211-Assignment3-eStore-main\PRN211-Assignment3-eStore-main\eStore\Migrations\20220630111328_InitDB.cs = C:\Users\DELL\Downloads\PRN211-Assignment3-eStore-main\PRN211-Assignment3-eStore-main\eStore\Migrations\20220630111328_InitDB.cs
+		C:\Users\DELL\Downloads\PRN211-Assignment3-eStore-main\PRN211-Assignment3-eStore-main\eStore\Migrations\20220630111328_InitDB.Designer.cs = C:\Users\DELL\Downloads\PRN211-Assignment3-eStore-main\PRN211-Assignment3-eStore-main\eStore\Migrations\20220630111328_InitDB.Designer.cs
+		C:\Users\DELL\Downloads\PRN211-Assignment3-eStore-main\PRN211-Assignment3-eStore-main\eStore\Migrations\ApplicationDbContextModelSnapshot.cs = C:\Users\DELL\Downloads\PRN211-Assignment3-eStore-main\PRN211-Assignment3-eStore-main\eStore\Migrations\ApplicationDbContextModelSnapshot.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4ACAECB-97D0-4E7A-9FED-9F1781C07D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4ACAECB-97D0-4E7A-9FED-9F1781C07D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4ACAECB-97D0-4E7A-9FED-9F1781C07D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4ACAECB-97D0-4E7A-9FED-9F1781C07D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEEA7604-EA00-422C-946D-8F1099D7D73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEA7604-EA00-422C-946D-8F1099D7D73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEA7604-EA00-422C-946D-8F1099D7D73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEA7604-EA00-422C-946D-8F1099D7D73C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43691110-1883-475A-A1A2-FB81C3893E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43691110-1883-475A-A1A2-FB81C3893E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43691110-1883-475A-A1A2-FB81C3893E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43691110-1883-475A-A1A2-FB81C3893E27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A4ACAECB-97D0-4E7A-9FED-9F1781C07D34} = {86F6820A-AB44-4EDC-8320-5379539D27DA}
+		{CEEA7604-EA00-422C-946D-8F1099D7D73C} = {D142D967-6EDB-4F52-B127-37566993C3F0}
+		{43691110-1883-475A-A1A2-FB81C3893E27} = {2EB18B7F-18FE-43B6-A2E6-CDE98A10ADC1}
+		{5E979094-F60F-45B3-B34A-32C82C7C3A12} = {D142D967-6EDB-4F52-B127-37566993C3F0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E960EE9-4AF6-49F7-AC38-4EC5E3F5D3A9}
+	EndGlobalSection
+EndGlobal

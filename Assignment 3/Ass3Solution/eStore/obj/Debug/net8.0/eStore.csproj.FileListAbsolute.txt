@@ -1,0 +1,149 @@
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\appsettings.Development.json
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\appsettings.json
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\eStore.staticwebassets.runtime.json
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\eStore.exe
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\eStore.deps.json
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\eStore.runtimeconfig.json
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\eStore.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\eStore.pdb
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Azure.Core.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Azure.Identity.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.Memory.Data.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\BusinessObject.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\DataAccess.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\BusinessObject.pdb
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\DataAccess.pdb
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.csproj.AssemblyReference.cache
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.AssemblyInfoInputs.cache
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.AssemblyInfo.cs
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.csproj.CoreCompileInputs.cache
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.MvcApplicationPartsAssemblyInfo.cache
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.RazorAssemblyInfo.cache
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.RazorAssemblyInfo.cs
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.sourcelink.json
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\staticwebassets\msbuild.eStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\staticwebassets\msbuild.build.eStore.props
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.eStore.props
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.eStore.props
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\scopedcss\bundle\eStore.styles.css
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\scopedcss\projectbundle\eStore.bundle.scp.css
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.csproj.CopyComplete
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\refint\eStore.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.pdb
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.genruntimeconfig.cache
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\ref\eStore.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\appsettings.Development.json
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\appsettings.json
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\eStore.staticwebassets.runtime.json
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\eStore.exe
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\eStore.deps.json
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\eStore.runtimeconfig.json
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\eStore.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\eStore.pdb
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Azure.Core.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Azure.Identity.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.Memory.Data.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\BusinessObject.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\DataAccess.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\BusinessObject.pdb
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\bin\Debug\net8.0\DataAccess.pdb
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.csproj.AssemblyReference.cache
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.AssemblyInfoInputs.cache
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.AssemblyInfo.cs
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.csproj.CoreCompileInputs.cache
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.MvcApplicationPartsAssemblyInfo.cache
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.RazorAssemblyInfo.cache
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.RazorAssemblyInfo.cs
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\staticwebassets\msbuild.eStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\staticwebassets\msbuild.build.eStore.props
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.eStore.props
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.eStore.props
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\scopedcss\bundle\eStore.styles.css
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\scopedcss\projectbundle\eStore.bundle.scp.css
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.csproj.Up2Date
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\refint\eStore.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.pdb
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\eStore.genruntimeconfig.cache
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\eStore\obj\Debug\net8.0\ref\eStore.dll

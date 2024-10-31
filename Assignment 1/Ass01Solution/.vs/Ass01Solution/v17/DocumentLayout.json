@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This MC\\AppData\\Local\\Temp\\.vsdbgsrc\\b6070b3e66bbd68fa60b14e7fcfedadd42ae609d\\ApplicationConfiguration.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D399769-E6D5-40FC-A904-66D30265F09E}|BussinessObject\\BussinessObject.csproj|d:\\project\\prn-lab1-main\\assignment 1\\ass01solution\\bussinessobject\\memberobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D399769-E6D5-40FC-A904-66D30265F09E}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\memberobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B826562-71EE-4B6E-9475-42C93201741F}|DataAccess\\DataAccess.csproj|d:\\project\\prn-lab1-main\\assignment 1\\ass01solution\\dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B826562-71EE-4B6E-9475-42C93201741F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B826562-71EE-4B6E-9475-42C93201741F}|DataAccess\\DataAccess.csproj|d:\\project\\prn-lab1-main\\assignment 1\\ass01solution\\dataaccess\\repository\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B826562-71EE-4B6E-9475-42C93201741F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9262E1-017D-4920-B0F1-A31454D6FE44}|MyStoreWinApp\\MyStoreWinApp.csproj|D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\mystorewinapp\\frmmembermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB9262E1-017D-4920-B0F1-A31454D6FE44}|MyStoreWinApp\\MyStoreWinApp.csproj|solutionrelative:mystorewinapp\\frmmembermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9262E1-017D-4920-B0F1-A31454D6FE44}|MyStoreWinApp\\MyStoreWinApp.csproj|d:\\project\\prn-lab1-main\\assignment 1\\ass01solution\\mystorewinapp\\frmmemberdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB9262E1-017D-4920-B0F1-A31454D6FE44}|MyStoreWinApp\\MyStoreWinApp.csproj|solutionrelative:mystorewinapp\\frmmemberdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9262E1-017D-4920-B0F1-A31454D6FE44}|MyStoreWinApp\\MyStoreWinApp.csproj|D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\mystorewinapp\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB9262E1-017D-4920-B0F1-A31454D6FE44}|MyStoreWinApp\\MyStoreWinApp.csproj|solutionrelative:mystorewinapp\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B826562-71EE-4B6E-9475-42C93201741F}|DataAccess\\DataAccess.csproj|d:\\project\\prn-lab1-main\\assignment 1\\ass01solution\\dataaccess\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B826562-71EE-4B6E-9475-42C93201741F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9262E1-017D-4920-B0F1-A31454D6FE44}|MyStoreWinApp\\MyStoreWinApp.csproj|d:\\project\\prn-lab1-main\\assignment 1\\ass01solution\\mystorewinapp\\frmmembermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9262E1-017D-4920-B0F1-A31454D6FE44}|MyStoreWinApp\\MyStoreWinApp.csproj|solutionrelative:mystorewinapp\\frmmembermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9262E1-017D-4920-B0F1-A31454D6FE44}|MyStoreWinApp\\MyStoreWinApp.csproj|d:\\project\\prn-lab1-main\\assignment 1\\ass01solution\\mystorewinapp\\frmmemberdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9262E1-017D-4920-B0F1-A31454D6FE44}|MyStoreWinApp\\MyStoreWinApp.csproj|solutionrelative:mystorewinapp\\frmmemberdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9262E1-017D-4920-B0F1-A31454D6FE44}|MyStoreWinApp\\MyStoreWinApp.csproj|d:\\project\\prn-lab1-main\\assignment 1\\ass01solution\\mystorewinapp\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9262E1-017D-4920-B0F1-A31454D6FE44}|MyStoreWinApp\\MyStoreWinApp.csproj|solutionrelative:mystorewinapp\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B826562-71EE-4B6E-9475-42C93201741F}|DataAccess\\DataAccess.csproj|d:\\project\\prn-lab1-main\\assignment 1\\ass01solution\\dataaccess\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B826562-71EE-4B6E-9475-42C93201741F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9262E1-017D-4920-B0F1-A31454D6FE44}|MyStoreWinApp\\MyStoreWinApp.csproj|d:\\project\\prn-lab1-main\\assignment 1\\ass01solution\\mystorewinapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB9262E1-017D-4920-B0F1-A31454D6FE44}|MyStoreWinApp\\MyStoreWinApp.csproj|solutionrelative:mystorewinapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 186,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 604,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationConfiguration.g.cs",
+              "DocumentMoniker": "C:\\Users\\This MC\\AppData\\Local\\Temp\\.vsdbgsrc\\b6070b3e66bbd68fa60b14e7fcfedadd42ae609d\\ApplicationConfiguration.g.cs",
+              "ToolTip": "C:\\Users\\This MC\\AppData\\Local\\Temp\\.vsdbgsrc\\b6070b3e66bbd68fa60b14e7fcfedadd42ae609d\\ApplicationConfiguration.g.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:52:16.541Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\DataAccess\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccess\\appsettings.json",
+              "ToolTip": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\DataAccess\\appsettings.json",
+              "RelativeToolTip": "DataAccess\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T14:50:39.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMemberDetails.cs [Design]",
+              "DocumentMoniker": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\MyStoreWinApp\\frmMemberDetails.cs",
+              "RelativeDocumentMoniker": "MyStoreWinApp\\frmMemberDetails.cs",
+              "ToolTip": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\MyStoreWinApp\\frmMemberDetails.cs [Design]",
+              "RelativeToolTip": "MyStoreWinApp\\frmMemberDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:50:07.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMemberManagement.cs [Design]",
+              "DocumentMoniker": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\MyStoreWinApp\\frmMemberManagement.cs",
+              "RelativeDocumentMoniker": "MyStoreWinApp\\frmMemberManagement.cs",
+              "ToolTip": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\MyStoreWinApp\\frmMemberManagement.cs [Design]",
+              "RelativeToolTip": "MyStoreWinApp\\frmMemberManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:48:22.723Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\MyStoreWinApp\\frmLogin.cs",
+              "RelativeDocumentMoniker": "MyStoreWinApp\\frmLogin.cs",
+              "ToolTip": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\MyStoreWinApp\\frmLogin.cs",
+              "RelativeToolTip": "MyStoreWinApp\\frmLogin.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:48:22.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMemberManagement.cs",
+              "DocumentMoniker": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\MyStoreWinApp\\frmMemberManagement.cs",
+              "RelativeDocumentMoniker": "MyStoreWinApp\\frmMemberManagement.cs",
+              "ToolTip": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\MyStoreWinApp\\frmMemberManagement.cs",
+              "RelativeToolTip": "MyStoreWinApp\\frmMemberManagement.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAhwFgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:48:22.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMemberDetails.cs",
+              "DocumentMoniker": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\MyStoreWinApp\\frmMemberDetails.cs",
+              "RelativeDocumentMoniker": "MyStoreWinApp\\frmMemberDetails.cs",
+              "ToolTip": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\MyStoreWinApp\\frmMemberDetails.cs",
+              "RelativeToolTip": "MyStoreWinApp\\frmMemberDetails.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:48:22.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberDAO.cs",
+              "DocumentMoniker": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\DataAccess\\MemberDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\MemberDAO.cs",
+              "ToolTip": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\DataAccess\\MemberDAO.cs",
+              "RelativeToolTip": "DataAccess\\MemberDAO.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAYwGIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:48:22.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\MyStoreWinApp\\frmLogin.cs",
+              "RelativeDocumentMoniker": "MyStoreWinApp\\frmLogin.cs",
+              "ToolTip": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\MyStoreWinApp\\frmLogin.cs [Design]",
+              "RelativeToolTip": "MyStoreWinApp\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:48:23.477Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberObject.cs",
+              "DocumentMoniker": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\BussinessObject\\MemberObject.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\MemberObject.cs",
+              "ToolTip": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\BussinessObject\\MemberObject.cs",
+              "RelativeToolTip": "BussinessObject\\MemberObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:48:23.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\DataAccess\\Repository\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\IMemberRepository.cs",
+              "ToolTip": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\DataAccess\\Repository\\IMemberRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\IMemberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:48:23.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\DataAccess\\Repository\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\MemberRepository.cs",
+              "ToolTip": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\DataAccess\\Repository\\MemberRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\MemberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:48:23.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\MyStoreWinApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyStoreWinApp\\appsettings.json",
+              "ToolTip": "D:\\project\\prn-lab1-main\\Assignment 1\\Ass01Solution\\MyStoreWinApp\\appsettings.json",
+              "RelativeToolTip": "MyStoreWinApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T14:48:23.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

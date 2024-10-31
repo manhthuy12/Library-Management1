@@ -1,0 +1,17 @@
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\bin\Debug\net8.0-windows\LibraryM.exe
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\bin\Debug\net8.0-windows\LibraryM.deps.json
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\bin\Debug\net8.0-windows\LibraryM.runtimeconfig.json
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\bin\Debug\net8.0-windows\LibraryM.dll
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\bin\Debug\net8.0-windows\LibraryM.pdb
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\obj\Debug\net8.0-windows\LibraryM.Form1.resources
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\obj\Debug\net8.0-windows\LibraryM.csproj.GenerateResource.cache
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\obj\Debug\net8.0-windows\LibraryM.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\obj\Debug\net8.0-windows\LibraryM.AssemblyInfoInputs.cache
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\obj\Debug\net8.0-windows\LibraryM.AssemblyInfo.cs
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\obj\Debug\net8.0-windows\LibraryM.csproj.CoreCompileInputs.cache
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\obj\Debug\net8.0-windows\LibraryM.sourcelink.json
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\obj\Debug\net8.0-windows\LibraryM.dll
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\obj\Debug\net8.0-windows\refint\LibraryM.dll
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\obj\Debug\net8.0-windows\LibraryM.pdb
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\obj\Debug\net8.0-windows\LibraryM.genruntimeconfig.cache
+D:\SE\S5. PRN211\Clone\Project\LibraryM\LibraryM\obj\Debug\net8.0-windows\ref\LibraryM.dll

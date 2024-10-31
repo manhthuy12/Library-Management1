@@ -1,0 +1,29 @@
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\BusinessObject\bin\Debug\net8.0\BusinessObject.runtimeconfig.json
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.sourcelink.json
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
+D:\SE\S5. PRN211\Clone\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\BusinessObject\bin\Debug\net8.0\BusinessObject.runtimeconfig.json
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
+D:\project\prn-lab1-main\Assignment 3\Ass3Solution\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll

@@ -1,0 +1,17 @@
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\bin\Debug\net8.0\BussinessObject.dll
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\bin\Debug\net8.0\BussinessObject.pdb
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CopyComplete
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+D:\SE\S5. PRN211\Clone\Assignment 2\Ass2Solution\DataAccess\bin\Debug\net8.0\appsettings.json

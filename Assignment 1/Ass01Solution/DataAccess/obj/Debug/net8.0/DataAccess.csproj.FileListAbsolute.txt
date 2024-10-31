@@ -1,0 +1,31 @@
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\bin\Debug\net8.0\BussinessObject.dll
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\bin\Debug\net8.0\BussinessObject.pdb
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CopyComplete
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\SE\S5. PRN211\Clone\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+D:\project\prn-lab1-main\Assignment 1\Ass01Solution\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\project\prn-lab1-main\Assignment 1\Ass01Solution\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\project\prn-lab1-main\Assignment 1\Ass01Solution\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\project\prn-lab1-main\Assignment 1\Ass01Solution\DataAccess\bin\Debug\net8.0\BussinessObject.dll
+D:\project\prn-lab1-main\Assignment 1\Ass01Solution\DataAccess\bin\Debug\net8.0\BussinessObject.pdb
+D:\project\prn-lab1-main\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\project\prn-lab1-main\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\prn-lab1-main\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\project\prn-lab1-main\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\project\prn-lab1-main\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\project\prn-lab1-main\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\project\prn-lab1-main\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\project\prn-lab1-main\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\project\prn-lab1-main\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\project\prn-lab1-main\Assignment 1\Ass01Solution\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

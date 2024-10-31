@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\prn-lab1-main\\Project\\LibraryM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85BAAC18-D517-4A59-956D-8E28DC186612}|LibraryM\\LibraryM.csproj|d:\\project\\prn-lab1-main\\project\\librarym\\librarym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85BAAC18-D517-4A59-956D-8E28DC186612}|LibraryM\\LibraryM.csproj|solutionrelative:librarym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\project\\prn-lab1-main\\Project\\LibraryM\\LibraryM\\Form1.cs",
+              "RelativeDocumentMoniker": "LibraryM\\Form1.cs",
+              "ToolTip": "D:\\project\\prn-lab1-main\\Project\\LibraryM\\LibraryM\\Form1.cs [Design]",
+              "RelativeToolTip": "LibraryM\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:30:35.071Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
